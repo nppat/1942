@@ -1,0 +1,1 @@
+This is a simple shooter game based on the ‘1942’ computer game.  for educational purposes only.
